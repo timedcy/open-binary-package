@@ -13,9 +13,11 @@ win:
 
 ## nmslib
 win: [nmslib-1.7.3.4-cp36-cp36m-win_amd64.whl](https://github.com/timedcy/open-binary-package/releases/download/v0/nmslib-1.7.3.4-cp36-cp36m-win_amd64.whl) 
-win: [nmslib-1.7.3.4-cp37-cp37m-win_amd64.whl](https://github.com/timedcy/open-binary-package/releases/download/v0/nmslib-1.7.3.4-cp37-cp37m-win_amd64.whl) 
 
 `pip install https://github.com/timedcy/open-binary-package/releases/download/v0/nmslib-1.7.3.4-cp36-cp36m-win_amd64.whl`
+
+win: [nmslib-1.7.3.4-cp37-cp37m-win_amd64.whl](https://github.com/timedcy/open-binary-package/releases/download/v0/nmslib-1.7.3.4-cp37-cp37m-win_amd64.whl) 
+
 `pip install https://github.com/timedcy/open-binary-package/releases/download/v0/nmslib-1.7.3.4-cp37-cp37m-win_amd64.whl`
 
 linux: [nmslib-1.7.3.4-cp36-cp36m-linux_x86_64.whl](https://github.com/timedcy/open-binary-package/releases/download/v0/nmslib-1.7.3.4-cp36-cp36m-linux_x86_64.whl) 
